@@ -5,6 +5,7 @@
 |   \\  /    A nd           | Website:  www.openfoam.com                      |
 |    \\/     M anipulation  |                                                 |
 \*---------------------------------------------------------------------------*/
+//This line is commented to modify existing cavity_vscode
 FoamFile
 {
     version     2.0;
